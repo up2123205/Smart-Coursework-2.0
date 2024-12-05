@@ -62,7 +62,7 @@ class SmartDoorBell():
             self.switchedOn = False
             
     def getSwitchedOn(self):
-        """return to switchedOn"""
+        """return to switchedOn status"""
         return self.switchedOn
     
     def getSleepMode(self):
